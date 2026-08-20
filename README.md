@@ -87,7 +87,7 @@ All three models achieved strong performance on unperturbed test data:
 *Shift in robustness gap after applying defense mechanisms (adversarial training + character normalization).*
 
 **Robustness Gap Across Attack Types (Domain-Mix Training)**
-![Robustness Gap Across Attacks Domain Mix Module](results/Robustness%20Gap%20Across%20Attacks%28Domain%20Mix%20.png)
+![Robustness Gap Across Attacks Domain Mix Module](results/Robustness%20Gap%20Across%20Attacks%28Domain%20Mix%29.png)
 *Robustness gap broken down by attack type after domain-mix training.*
 
 **Robustness Gap After Domain-Mix Adaptation**
