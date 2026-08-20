@@ -87,11 +87,11 @@ All three models achieved strong performance on unperturbed test data:
 *Shift in robustness gap after applying defense mechanisms (adversarial training + character normalization).*
 
 **Robustness Gap Across Attack Types (Domain-Mix Training)**
-![Robustness Gap Across Attacks Domain Mix Module](results/Robustness%20Gap%20Across%20Attacks%28Domain%20Mix%20Module%29.png)
+![Robustness Gap Across Attacks Domain Mix Module](results/Robustness%20Gap%20Across%20Attacks%28Domain%20Mix%20.png)
 *Robustness gap broken down by attack type after domain-mix training.*
 
 **Robustness Gap After Domain-Mix Adaptation**
-![Robustness Gap after Domain Mix Adaptation](results/Robustness%20Gap%20after%20DOmain%20Mix%20Adaptation.png)
+![Robustness Gap after Domain Mix Adaptation](results/Robustness%20Gap%20after%20Domain%20Mix%20Adaptation.png)
 *Overall robustness improvement after domain-mix training (80% PhishTank + 20% OpenPhish) — XGBoost F1 improved by up to 7.9 percentage points.*
 
 **Subdomain Obfuscation Attack Performance**
